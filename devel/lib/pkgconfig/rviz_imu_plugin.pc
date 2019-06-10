@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_workspace/devel
+
+Name: rviz_imu_plugin
+Description: Description of rviz_imu_plugin
+Version: 1.1.6
+Cflags: 
+Libs: -L/home/pi/catkin_workspace/devel/lib 
+Requires: rviz

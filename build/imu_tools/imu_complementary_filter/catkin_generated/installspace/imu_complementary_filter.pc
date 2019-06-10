@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_workspace/install
+
+Name: imu_complementary_filter
+Description: Description of imu_complementary_filter
+Version: 1.1.6
+Cflags: -I/home/pi/catkin_workspace/install/include
+Libs: -L/home/pi/catkin_workspace/install/lib -lcomplementary_filter
+Requires: message_filters roscpp sensor_msgs std_msgs tf
